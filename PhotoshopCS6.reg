@@ -1,0 +1,3883 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\DC]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\DC\Installer]
+"Path"="C:\\Program Files\\Adobe\\Acrobat DC\\"
+"Is64BitProduct"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\DC\InstallPath]
+@="C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0\ARM]
+"iCheck"=dword:00000003
+"iLastSvcSuccess"=dword:475662b7
+"iRandom"=dword:000040dd
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0\ARM\Products]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0\ARM\Products\Acrobat]
+"iWaitFilesInUseStartedTime"=dword:67c8fff1
+"iInstallStartedTime"=dword:67c8fff2
+"iInstallFinishedTime"=dword:67c90011
+"UpdateResult"="SUCCESS"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0\ARM\Products\{291AA914-A987-4CE9-BD63-0C0A92D435E5}]
+"iWaitFilesInUseStartedTime"=dword:67a4435f
+"iInstallStartedTime"=dword:67a4435f
+"iInstallFinishedTime"=dword:67a44362
+"UpdateResult"="SUCCESS"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\Legacy]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\Legacy\Acrobat]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\Legacy\Acrobat\{AC76BA86-1033-1033-7760-BC15014EA700}]
+"Check"=dword:00000048
+"Mode"=dword:00000003
+"TrackName"="DC"
+"ManifestURL_3"="https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\Products]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\Products\{291AA914-A987-4CE9-BD63-0C0A92D435E5}]
+"ManifestURL_3"="https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi"
+"PolicyDisableUpdater"="SOFTWARE\\Policies\\Adobe\\Adobe Acrobat\\DC\\FeatureLockDown\\cServices"
+"DisableAnyUI"=dword:00000001
+"ManifestURL_2"="https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest2.msi"
+"ProductCode"="{291AA914-1033-4CE9-BD63-0C0A92D435E5}"
+"ManifestURL"="https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest.msi"
+"Check"=dword:00000048
+"ProductName"="AcrobatServices"
+"ProductVersion"="24.005.20421.0"
+"Mode"=dword:00000003
+"InstalledValidate"="C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\11.0]
+"ApplicationPath"="E:\\SOFTWARE\\Adobe Photoshop CS4 Portable\\App\\App\\Photoshop\\"
+"PluginPath"="E:\\SOFTWARE\\Adobe Photoshop CS4 Portable\\App\\App\\Photoshop\\Plug-Ins\\"
+"FreeBeforeSlopAdjust"=dword:0034df14
+"FreeSpace"=dword:001ccc4a
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\11.0\ApplicationPath]
+@="E:\\SOFTWARE\\Adobe Photoshop CS4 Portable\\App\\App\\Photoshop\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\11.0\PluginPath]
+@="E:\\SOFTWARE\\Adobe Photoshop CS4 Portable\\App\\App\\Photoshop\\Plug-Ins\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"ApplicationPath"="C:\\Users\\name\\Desktop\\ADOBE PHOTOSHOP CS6 PORTABLE\\cs6\\Adobe Photoshop portable CS6\\App\\PhotoshopCS6\\"
+"PluginPath"="C:\\Users\\name\\Desktop\\ADOBE PHOTOSHOP CS6 PORTABLE\\cs6\\Adobe Photoshop portable CS6\\App\\PhotoshopCS6\\Plug-Ins\\"
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+@="C:\\Users\\name\\Desktop\\ADOBE PHOTOSHOP CS6 PORTABLE\\cs6\\Adobe Photoshop portable CS6\\App\\PhotoshopCS6\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+@="C:\\Users\\name\\Desktop\\ADOBE PHOTOSHOP CS6 PORTABLE\\cs6\\Adobe Photoshop portable CS6\\App\\PhotoshopCS6\\Plug-Ins\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Setup]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Access]
+"bEligibleForCloudBasedAT"=dword:00000000
+"bEligibleForCloudBasedSR"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp]
+"iProductVersion"=dword:00180500
+"iScannedVersion"=dword:00180500
+"uUnsignedProductVersion"=dword:18054faf
+"sLocale"=hex:65,6e,2d,75,73,00
+"iRefreshVersion"=dword:00180500
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cFavorites]
+"a0"="EPDFApp"
+"a1"="EditPDFRdrApp"
+"a2"="CPDFApp"
+"a3"="CommentApp"
+"a4"="CombinePDFRdrApp"
+"a5"="PagesRdrApp"
+"a6"="OptimizePDFRdrApp"
+"a7"="RedactPDFRdrApp"
+"a8"="ProtectPDFRdrApp"
+"a9"="CollectSignaturesApp"
+"a10"="FillSignApp"
+"a11"="ReviewPDFRdrApp"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cFeatured]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c0]
+"tDescription"="Convert a PDF to Microsoft Word, Excel, PowerPoint, and more"
+"aID"="EPDFAppFull"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="EPDF_Full.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Export PDF"
+"tav2Description"="Convert PDFs to Microsoft Office files, images, and more"
+"tav2Title"="Export a PDF"
+"trichTooltip"="Convert PDFs to Microsoft Word, Excel, or PowerPoint. Convert to image files too."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c1]
+"tDescription"="Create a PDF from any format"
+"aID"="CPDFAppFull"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CPDF_Full.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Create PDF"
+"tav2Description"="Create PDFs from images, Microsoft Office files, and more"
+"tav2Title"="Create a PDF"
+"trichTooltip"="Create PDFs from images, Microsoft files, scanned files, web pages, or a blank page."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c10]
+"tDescription"="Chat with your documents, use key insights to draft content, and more with AI Assistant"
+"aID"="GenAIAssistantApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Assistant.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="AI Assistant"
+"tav2Description"="Chat with your documents, use key insights to draft content, and more with AI Assistant"
+"tav2Title"="AI Assistant"
+"trichTooltip"="Chat with your documents, use key insights to draft content, and more with AI Assistant"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c11]
+"tDescription"="Quickly understand documents and navigate to key sections with generative summary"
+"aID"="GenAISummaryApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Summary.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Generative summary"
+"tav2Description"="Quickly understand documents and navigate to key sections with generative summary"
+"tav2Title"="Generative summary"
+"trichTooltip"="Quickly understand documents and navigate to key sections with generative summary"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c12]
+"tDescription"=""
+"aID"="ToolsCenter"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="AppCenter_R.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Tools"
+"tav2Description"=""
+"tav2Title"="All tools"
+"trichTooltip"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c13]
+"tDescription"=""
+"aID"="AVHome"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Home.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Home"
+"tav2Description"=""
+"tav2Title"="Go to Home view"
+"trichTooltip"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c14]
+"tDescription"=""
+"aID"="Viewer"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Viewer.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000000
+"tTitle"="Viewer"
+"tav2Description"=""
+"tav2Title"=""
+"trichTooltip"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c15]
+"tDescription"=""
+"aID"="InAppSigningApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="InAppSign.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"=""
+"tav2Description"=""
+"tav2Title"=""
+"trichTooltip"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c16]
+"tDescription"=""
+"aID"="UnifiedShareApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="UnifiedShare.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Unified Share"
+"tav2Description"=""
+"tav2Title"=""
+"trichTooltip"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c17]
+"tDescription"="Convert a PDF to Microsoft Word, Excel, PowerPoint, and more"
+"aID"="EPDFApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000001
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="EPDF_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Export PDF"
+"tav2Description"="Convert PDFs to Microsoft Office files, images, and more"
+"tav2Title"="Export a PDF"
+"trichTooltip"="Convert PDFs to Microsoft Word, Excel, or PowerPoint. Convert to image files too."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c18]
+"tDescription"="Create a PDF from any format"
+"aID"="CPDFApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000001
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CPDF_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Create PDF"
+"tav2Description"="Create PDFs from images, Microsoft Office files, and more"
+"tav2Title"="Create to PDF"
+"trichTooltip"="Create PDFs from images, Microsoft files, scanned files, web pages, or a blank page."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c19]
+"tDescription"="Convert a PDF to Word, Powerpoint, Excel or create PDFs from these native formats"
+"aID"="ConvertPDFApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000001
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="ConvertPDF_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Convert PDF"
+"tav2Description"="Turn almost any file into a PDF"
+"tav2Title"="Convert to PDF"
+"trichTooltip"="Convert a PDF to Word, Powerpoint, Excel or create PDFs from these native formats"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c2]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrAppFull"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_Full.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+"tav2Description"="Modify or add text, images, pages, and more"
+"tav2Title"="Edit a PDF"
+"trichTooltip"="Modify text and images, edit scanned pages, and organize pages."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c20]
+"tDescription"="Convert a PDF to Word, Powerpoint, Excel or create PDFs from these native formats"
+"aID"="ConvertPDFAppFull"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="ConvertPDF_Full.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Convert PDF"
+"tav2Description"="Turn almost any file into a PDF"
+"tav2Title"="Convert to PDF"
+"trichTooltip"="Convert a PDF to Word, Powerpoint, Excel or create PDFs from these native formats"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c21]
+"tDescription"="Combine multiple files into a single PDF"
+"aID"="CombinePDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Combine_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Combine Files"
+"tav2Description"="Merge multiple files into a single PDF"
+"tav2Title"="Combine files"
+"trichTooltip"="Merge multiple files into a single PDF for easy storing and sharing."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c22]
+"tDescription"="Enhance PDF forms and connect to databases with JavaScript"
+"aID"="DeveloperRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Developer_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="JavaScript"
+"tav2Description"="Enhance PDF forms and connect to databases with JavaScript"
+"tav2Title"="Use JavaScript"
+"trichTooltip"="Enhance PDF forms and connect to databases with JavaScript"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c23]
+"tDescription"="Delete, insert, extract, or rotate pages"
+"aID"="PagesRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Pages_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Organize Pages"
+"tav2Description"="Delete, rotate, extract, insert, or reorder pages"
+"tav2Title"="Organize pages"
+"trichTooltip"="Set up a perfect PDF. Reorder, rotate, delete, insert, or extract pages."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c24]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+"tav2Description"="Modify or add text, images, pages, and more"
+"tav2Title"="Edit a PDF"
+"trichTooltip"="Modify text and images, edit scanned pages, and organize pages."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c25]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrMenuApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_Menu.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+"tav2Description"="Modify or add text, images, pages, and more"
+"tav2Title"="Edit a PDF"
+"trichTooltip"="Modify text and images, edit scanned pages, and organize pages."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c26]
+"tDescription"="Access more tools and enhanced functionalities"
+"aID"="MoreToolRHP"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="MoreTools.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="More Tools"
+"tav2Description"=""
+"tav2Title"=""
+"trichTooltip"="See all Acrobat tools and add more shortcuts."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c27]
+"tDescription"="Index PDF files to speed search across document collections"
+"aID"="IndexRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Index_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Index"
+"tav2Description"="Create an index to speed search within and across files"
+"tav2Title"="Add search index"
+"trichTooltip"="Index PDF files to speed search across document collections"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c28]
+"tDescription"="Add audio, video, and interactive elements"
+"aID"="RichMediaRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="RichMedia_R_RHP.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000001
+"tTitle"="Rich Media"
+"tav2Description"="Add audio, video, and interactive elements"
+"tav2Title"="Add rich media"
+"trichTooltip"="Add audio, video, and interactive elements"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c29]
+"tDescription"="Easily create stand out content with Adobe Express"
+"aID"="CCXRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CCX_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Design Pages"
+"tav2Description"=""
+"tav2Title"=""
+"trichTooltip"="Easily create stand out content with Adobe Express"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c3]
+"tDescription"="Add comments with highlights, sticky notes, and markup tools"
+"aID"="CommentApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Comments.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000000
+"tTitle"="Comment"
+"tav2Description"="Add sticky notes, highlights, and other annotations"
+"tav2Title"="Add comments"
+"trichTooltip"="Mark up a PDF with text boxes, sticky notes, highlights, and other annotations."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c30]
+"tDescription"="Permanently delete sensitive text, graphics, or hidden data"
+"aID"="RedactPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Redact_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Redact"
+"tav2Description"="Permanently delete sensitive content and hidden data"
+"tav2Title"="Redact a PDF"
+"trichTooltip"="Permanently delete content and hidden information to protect sensitive data."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c31]
+"tDescription"="Prevent others from copying, printing, and editing the information in PDFs"
+"aID"="ProtectPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Protect_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Protect"
+"tav2Description"="Secure a PDF with a password or certificate and set permissions"
+"tav2Title"="Protect a PDF"
+"trichTooltip"="Prevent others from copying, printing, and editing the information in PDFs"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c32]
+"tDescription"="Reduce PDF file size, enable fast web view, and control image and font options"
+"aID"="OptimizePDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="OptimizePDF_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Compress PDF"
+"tav2Description"="Reduce your PDF file size and control image and font settings"
+"tav2Title"="Compress a PDF"
+"trichTooltip"="Reduce the size of a PDF file. Control images and font settings too."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c33]
+"tDescription"="Reduce PDF file size, enable fast web view, and control image and font options"
+"aID"="OptimizePDFRdrCtxApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="OptimizePDF_R_CTX.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Compress PDF"
+"tav2Description"="Reduce your PDF file size and control image and font settings"
+"tav2Title"="Compress a PDF"
+"trichTooltip"="Reduce the size of a PDF file. Control images and font settings too."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c34]
+"tDescription"="Invite people to add comments on a shared file and track responses"
+"aID"="ReviewPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Review_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Send for Comments"
+"tav2Description"="Invite people to add comments to a shared file and track responses"
+"tav2Title"="Send for comments"
+"trichTooltip"="Share a file with others to collect feedback in a single file. Reply to comments and @mention others."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c35]
+"tDescription"="Turn scans or photos of paper documents into searchable PDFs with selectable text"
+"aID"="ScanPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Scan_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Scan & OCR"
+"tav2Description"="Turn scans or images into searchable, editable PDFs"
+"tav2Title"="Scan & OCR"
+"trichTooltip"="Turn scans or photos of paper documents into searchable PDFs with selectable text"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c36]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditPDFRdrExpApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_R_Exp_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Edit PDF"
+"tav2Description"="Modify or add text, images, pages, and more"
+"tav2Title"="Edit a PDF"
+"trichTooltip"="Modify text and images, edit scanned pages, and organize pages."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c37]
+"tDescription"="Edit text and images in a PDF file"
+"aID"="EditDelayedRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Edit_DelayedPaywall.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000001
+"tTitle"="Edit PDF"
+"tav2Description"="Modify or add text, images, pages, and more"
+"tav2Title"="Edit a PDF"
+"trichTooltip"="Modify text and images, edit scanned pages, and organize pages."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c38]
+"tDescription"="Delete, insert, extract, or rotate pages"
+"aID"="PagesDelayedRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Pages_DelayedPaywall.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000001
+"tTitle"="Organize Pages"
+"tav2Description"="Delete, rotate, extract, insert, or reorder pages"
+"tav2Title"="Organize pages"
+"trichTooltip"="Delete, insert, extract, or rotate pages"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c39]
+"tDescription"="Combine multiple files into a single PDF"
+"aID"="CombineDelayedRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Combine_DelayedPaywall.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Combine Files"
+"tav2Description"="Merge multiple files into a single PDF"
+"tav2Title"="Combine files"
+"trichTooltip"="Merge multiple files into a single PDF for easy storing and sharing."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c4]
+"tDescription"="Fill and sign forms or get them signed from others"
+"aID"="FillSignApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="FillSign.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000000
+"tTitle"="Fill & Sign"
+"tav2Description"="Fill in forms, add your signature, or send to others for e-signing"
+"tav2Title"="Fill & Sign"
+"trichTooltip"="Fill out a form digitally. Then add your signature or send it to others for e-signing."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c40]
+"tDescription"="Create and verify PDF files to meet accessibility standards for people with disabilities"
+"aID"="AccessibilityRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Accessibility_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Accessibility"
+"tav2Description"="Create and verify PDFs to meet accessibility standards"
+"tav2Title"="Prepare for accessibility"
+"trichTooltip"="Create and verify PDF files to meet accessibility standards for people with disabilities"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c41]
+"tDescription"="Use guided actions to standardize routine PDF tasks"
+"aID"="ActionsRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Actions_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Action Wizard"
+"tav2Description"="Use actions to standardize routine PDF tasks"
+"tav2Title"="Use guided actions"
+"trichTooltip"="Use guided actions to standardize routine PDF tasks"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c42]
+"tDescription"="Compare and highlight the differences between 2 files"
+"aID"="CompareRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000002
+"iMinorVersion"=dword:00000000
+"tPath"="Compare_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Compare Files"
+"tav2Description"="Compare two files and highlight the differences"
+"tav2Title"="Compare files"
+"trichTooltip"="Compare and highlight the differences between 2 files"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c43]
+"tDescription"="Create a customized collection of Acrobat features and share it with others"
+"aID"="CreateCustomUIRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CreateCustom_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Create Custom Tool"
+"tav2Description"="Create a custom set of Acrobat features"
+"tav2Title"="Create custom tool"
+"trichTooltip"="Create a customized collection of Acrobat features and share it with others"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c44]
+"tDescription"="Create PDF/A, PDF/E, or PDF/X files to comply with ISO standards"
+"aID"="StandardsRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Standards_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="PDF Standards"
+"tav2Description"="Create PDF/A, PDF/E, or PDF/X files to comply with ISO standards"
+"tav2Title"="Apply PDF standards"
+"trichTooltip"="Create PDF/A, PDF/E, or PDF/X files to comply with ISO standards"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c45]
+"tDescription"="Preview, preflight, correct, and prepare PDF files for high-end print production"
+"aID"="PrintProductionRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="PrintProduction_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Print Production"
+"tav2Description"="Preview, preflight, and prepare PDFs for high-end print production"
+"tav2Title"="Use print production"
+"trichTooltip"="Preview, preflight, correct, and prepare PDF files for high-end print production"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c46]
+"tDescription"="Quickly convert Microsoft Word and Excel or scanned forms into PDF forms"
+"aID"="FormsRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Forms_R_RHP.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Prepare Form"
+"tav2Description"="Convert Microsoft Word, Excel or scanned forms into PDF forms"
+"tav2Title"="Prepare a form"
+"trichTooltip"="Convert scanned forms, Microsoft Word files, or Excel documents into fillable PDF forms."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c5]
+"tDescription"="Send a document to others for easy, trusted signing online"
+"aID"="CollectSignaturesApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="CollectSignatures.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000000
+"tTitle"="Request E-signatures"
+"tav2Description"="Send a document to anyone to e-sign online fast"
+"tav2Title"="Request e-signatures"
+"trichTooltip"="Send a document to anyone to e-sign fast online. Recipients sign in a browser for free."
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c6]
+"tDescription"="Share files for viewing or review and track responses"
+"aID"="SendAppFull"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="TrackedSend.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000000
+"tTitle"="Share"
+"tav2Description"="Send a file to others for commenting or viewing"
+"tav2Title"="Share"
+"trichTooltip"="Share files for viewing or review and track responses"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c7]
+"tDescription"="Add stamps such as 'approved' or 'draft'"
+"aID"="StampApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Stamp.aapp"
+"bRequiresDoc"=dword:00000000
+"bShowLabels"=dword:00000001
+"tTitle"="Stamp"
+"tav2Description"="Add or delete stamps such as Approved or Draft"
+"tav2Title"="Add a stamp"
+"trichTooltip"="Add stamps such as 'approved' or 'draft'"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c8]
+"tDescription"="Digitally sign or certify documents and validate authenticity"
+"aID"="CertificatesApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Certificates_R.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000001
+"tTitle"="Certificates"
+"tav2Description"="Digitally sign or certify documents and validate authenticity"
+"tav2Title"="Use a certificate"
+"trichTooltip"="Digitally sign or certify documents and validate authenticity"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AcroApp\cRegistered\c9]
+"tDescription"="Measure distance, area, and perimeter of objects"
+"aID"="MeasureApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"tLocation"="install"
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tPath"="Measure.aapp"
+"bRequiresDoc"=dword:00000001
+"bShowLabels"=dword:00000001
+"tTitle"="Measure"
+"tav2Description"="Measure the distance, area, and perimeter of objects"
+"tav2Title"="Measure objects"
+"trichTooltip"="Measure distance, area, and perimeter of objects"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\ADM]
+"bEnableADMAnalytics"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AdobeSignExperiments]
+"bEnableWinReaderDocClassifierForSignExp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AdobeViewer]
+"EULAAcceptedForBrowser"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots]
+"bStampsPaletteInvisible"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cAnnot]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tauthor"="NITO"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cAnnot\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cAnnot\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cAnnot\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCaret]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCaret\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCaret\cstrokeColor]
+"t0"="RGB"
+"d1"="0.752945"
+"d2"="0.215683"
+"d3"="0.768631"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCaret\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCircle]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCircle\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCircle\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cCircle\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFileAttachment]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFileAttachment\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFileAttachment\cstrokeColor]
+"t0"="RGB"
+"d1"="0.588242"
+"d2"="0.262741"
+"d3"="0.988235"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFileAttachment\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText\cfillColor]
+"t0"="RGB"
+"d1"="1.000000"
+"d2"="1.000000"
+"d3"="1.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText\crichDefaults]
+"talignment"="left"
+"tfontStyle"="normal"
+"tfontWeight"="normal"
+"dtextSize"="12.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText\crichDefaults\cfontFamily]
+"a0"="Helvetica"
+"a1"="sans-serif"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText\crichDefaults\ctextColor]
+"t0"="RGB"
+"d1"="0.023529"
+"d2"="0.541183"
+"d3"="0.109802"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText\cstrokeColor]
+"t0"="RGB"
+"d1"="0.972549"
+"d2"="0.392151"
+"d3"="0.392151"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText\ctextColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextCallout]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextCallout\cfillColor]
+"t0"="RGB"
+"d1"="1.000000"
+"d2"="1.000000"
+"d3"="1.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextCallout\crichDefaults]
+"talignment"="left"
+"tfontStyle"="normal"
+"tfontWeight"="normal"
+"dtextSize"="12.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextCallout\crichDefaults\cfontFamily]
+"a0"="Helvetica"
+"a1"="sans-serif"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextCallout\crichDefaults\ctextColor]
+"t0"="RGB"
+"d1"="0.023529"
+"d2"="0.541183"
+"d3"="0.109802"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextCallout\cstrokeColor]
+"t0"="RGB"
+"d1"="0.972549"
+"d2"="0.392151"
+"d3"="0.392151"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextCallout\ctextColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextTypewriter]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextTypewriter\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextTypewriter\crichDefaults]
+"talignment"="left"
+"tfontStyle"="normal"
+"tfontWeight"="normal"
+"dtextSize"="12.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextTypewriter\crichDefaults\cfontFamily]
+"a0"="Helvetica"
+"a1"="monospace"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextTypewriter\crichDefaults\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextTypewriter\cstrokeColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cFreeText_003aFreeTextTypewriter\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight\cstrokeColor]
+"t0"="RGB"
+"d1"="1.000000"
+"d2"="0.384308"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight_003aHighlightNote]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"dopacity"="0.400000"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight_003aHighlightNote\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight_003aHighlightNote\cstrokeColor]
+"t0"="RGB"
+"d1"="0.588242"
+"d2"="0.262741"
+"d3"="0.988235"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cHighlight_003aHighlightNote\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk_003aInkHighlight]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk_003aInkHighlight\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk_003aInkHighlight\cstrokeColor]
+"t0"="RGB"
+"d1"="1.000000"
+"d2"="0.384308"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cInk_003aInkHighlight\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine_003aLineArrow]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine_003aLineArrow\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine_003aLineArrow\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine_003aLineArrow\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine_003aLineDimension]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine_003aLineDimension\cfillColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cLine_003aLineDimension\ctextColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon_003aPolygonCloud]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon_003aPolygonCloud\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon_003aPolygonCloud\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolygon_003aPolygonCloud\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolyLine]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolyLine\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolyLine\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cPolyLine\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cProjection]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cProjection\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cProjection\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cProjection\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cRedact]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cRedact\cannotFillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cRedact\cfillColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cRedact\coutlineColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cRedact\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cRedact\ctextColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSound]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSound\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSound\cstrokeColor]
+"t0"="RGB"
+"d1"="1.000000"
+"d2"="0.384308"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSound\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquare]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquare\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquare\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquare\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquiggly]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquiggly\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquiggly\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cSquiggly\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStamp]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStamp\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStamp\cstrokeColor]
+"t0"="RGB"
+"d1"="0.858826"
+"d2"="0.203918"
+"d3"="0.145096"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStamp\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStrikeOut]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStrikeOut\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStrikeOut\cstrokeColor]
+"t0"="RGB"
+"d1"="0.972549"
+"d2"="0.392151"
+"d3"="0.392151"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStrikeOut\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStrikeOut_003aStrikeOutTextEdit]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cStrikeOut_003aStrikeOutTextEdit\cstrokeColor]
+"t0"="RGB"
+"d1"="0.972549"
+"d2"="0.392151"
+"d3"="0.392151"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cText]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cText\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cText\cstrokeColor]
+"t0"="RGB"
+"d1"="0.588242"
+"d2"="0.262741"
+"d3"="0.988235"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cText\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cUnderline]
+"tAP"="SBApproved"
+"tattachIcon"="Paperclip"
+"tnoteIcon"="Comment"
+"tsoundIcon"="Speaker"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cUnderline\cfillColor]
+"t0"="T"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cUnderline\cstrokeColor]
+"t0"="RGB"
+"d1"="0.074509"
+"d2"="0.450974"
+"d3"="0.909805"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Annots\cAnnots\cUnderline\ctextColor]
+"t0"="RGB"
+"d1"="0.000000"
+"d2"="0.000000"
+"d3"="0.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\ArmUpsell]
+"iDownloadCount"=dword:00000000
+"iInvocationCount"=dword:00000000
+"bIsEnabled"=dword:00000001
+"iLastKnowFinishTime"=dword:00000000
+"iLastKnownInvocationTime"=dword:00000000
+"icurrentState"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AutoDocOpen]
+"bIsAutoOpenFeatureEnabled"=dword:00000000
+"bAutoDocOpenOptIn"=dword:00000001
+"bIsAutoDocOpenFeatureEnabledNew"=dword:00000001
+"bIsAutoDocOpenFeatureEnabledViaIPM"=dword:00000001
+"iVariant"=dword:00000001
+"bIsAutoDocOpenOptOutCardEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AV2FTESection]
+"bWTAActualFirstLaunch"=dword:00000001
+"bWTAIsFeatureEnabled"=dword:00000000
+"bSCAReaderProduct"=dword:00000001
+"bSCACanShowTaskCompleteAnimation"=dword:00000000
+"iSCATaskStatus"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c0]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,31,32,37,30,37,34,37,33,33,5a,2d,38,34,\
+  39,35,36,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,30,36,38,30,00
+"surlKey"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,\
+  64,73,2f,31,39,35,37,39,38,30,36,38,30,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c1]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,31,32,37,30,37,30,31,32,33,5a,2d,31,39,\
+  39,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,31,32,37,36,00
+"surlKey"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,\
+  64,73,2f,32,30,36,34,31,33,39,32,39,30,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c10]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,31,31,30,37,35,32,35,33,5a,2d,33,33,\
+  37,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,34,38,38,32,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,\
+  55,53,53,49,4f,4e,2f,77,65,65,6b,20,34,20,43,6f,6c,6f,72,20,54,68,65,6f,72,\
+  79,20,32,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c11]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,31,31,30,38,32,36,34,36,5a,2d,34,33,\
+  35,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,38,38,39,39,32,32,36,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,\
+  55,53,53,49,4f,4e,2f,77,65,65,6b,20,34,20,61,64,6f,62,65,20,70,68,6f,74,6f,\
+  73,68,6f,70,20,2d,20,72,61,73,74,65,72,20,61,6e,64,20,76,65,63,74,6f,72,2e,\
+  70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c12]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,31,30,30,30,33,37,33,36,5a,2d,33,31,\
+  37,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,34,37,32,36,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,77,65,65,6b,\
+  20,34,20,43,6f,6c,6f,72,20,54,68,65,6f,72,79,20,31,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c13]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,31,30,30,31,30,37,33,30,5a,2d,33,33,\
+  39,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,34,38,38,32,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,77,65,65,6b,\
+  20,34,20,43,6f,6c,6f,72,20,54,68,65,6f,72,79,20,32,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c14]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,30,37,30,33,34,33,32,30,5a,2d,33,34,\
+  39,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,38,38,39,39,32,32,36,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,77,65,65,6b,\
+  20,34,20,61,64,6f,62,65,20,70,68,6f,74,6f,73,68,6f,70,20,2d,20,72,61,73,74,\
+  65,72,20,61,6e,64,20,76,65,63,74,6f,72,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c2]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,30,37,30,33,34,37,33,32,5a,2d,32,34,\
+  36,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,38,39,30,30,30,34,34,00
+"surlKey"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,\
+  64,73,2f,33,33,32,30,30,37,33,31,30,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c3]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,31,32,37,30,36,34,34,32,37,5a,2d,36,30,\
+  33,39,33,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,30,32,36,36,00
+"surlKey"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,\
+  64,73,2f,34,32,31,36,38,32,30,36,39,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c4]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,31,32,37,30,37,34,37,32,31,5a,2d,38,34,\
+  35,39,30,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,34,30,34,31,00
+"surlKey"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,\
+  64,73,2f,37,35,38,36,31,31,34,38,34,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c5]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,30,37,30,33,33,34,34,31,5a,2d,31,37,\
+  36,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,35,33,36,36,00
+"surlKey"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,\
+  64,73,2f,38,38,32,33,31,37,32,30,37,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c6]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,31,30,30,38,34,33,34,31,5a,2d,32,37,\
+  30,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,30,38,37,31,30,37,31,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,53,45,4c,45,43,54,20,31,30,34,2f,50,\
+  4f,4a,41,53,5f,49,53,45,4c,45,43,54,20,31,30,34,5f,32,4e,44,20,53,45,4d,45,\
+  53,54,45,52,5f,32,30,32,34,2d,32,30,32,35,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c7]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,30,35,30,37,34,34,33,35,5a,2d,37,30,\
+  36,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,34,37,32,36,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,43,6f,6c,6f,\
+  72,20,54,68,65,6f,72,79,20,31,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c8]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,30,35,30,37,34,35,31,30,5a,2d,33,38,\
+  37,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,34,38,38,32,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,43,6f,6c,6f,\
+  72,20,54,68,65,6f,72,79,20,32,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cIconCache\c9]
+"sfileKey"=hex:69,63,6f,6e,2d,32,35,30,32,31,31,30,36,31,33,31,33,5a,2d,32,30,\
+  39,2e,62,6d,70,00
+"slastModifiedHeader"=hex:31,37,33,37,39,36,34,37,32,36,00
+"surlKey"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,\
+  52,20,32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,\
+  55,53,53,49,4f,4e,2f,77,65,65,6b,20,34,20,43,6f,6c,6f,72,20,54,68,65,6f,72,\
+  79,20,31,2e,70,64,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\caccounts]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\caccounts\cdef]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\cconnectors]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\cconnectors\cen0us]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0]
+"ssection_key"=hex:61,64,6f,62,65,5f,74,6f,6f,6c,73,00
+"tsection_label"="Featured Storage"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c0]
+"balwaysAppear"=dword:00000000
+"sname"=hex:62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c1]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,72,6f,70,62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c2]
+"balwaysAppear"=dword:00000000
+"sname"=hex:67,6f,6f,67,6c,65,44,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c3]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c4]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,62,75,73,69,6e,65,73,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c5]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,65,73,6b,74,6f,70,5f,73,68,61,72,65,70,6f,69,6e,74,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c6]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6d,69,63,72,6f,73,6f,66,74,54,65,61,6d,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_add\c0\csection_order\c7]
+"balwaysAppear"=dword:00000000
+"sname"=hex:7a,6f,6f,6d,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c0]
+"balwaysAppear"=dword:00000000
+"sname"=hex:62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c1]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,72,6f,70,62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c2]
+"balwaysAppear"=dword:00000000
+"sname"=hex:67,6f,6f,67,6c,65,44,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c3]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c4]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,62,75,73,69,6e,65,73,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_file_sel_dlg\c5]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,65,73,6b,74,6f,70,5f,73,68,61,72,65,70,6f,69,6e,74,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c0]
+"balwaysAppear"=dword:00000000
+"sname"=hex:62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c1]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,72,6f,70,62,6f,78,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c2]
+"balwaysAppear"=dword:00000000
+"sname"=hex:67,6f,6f,67,6c,65,44,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c3]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c4]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6f,6e,65,64,72,69,76,65,62,75,73,69,6e,65,73,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c5]
+"balwaysAppear"=dword:00000000
+"sname"=hex:64,65,73,6b,74,6f,70,5f,73,68,61,72,65,70,6f,69,6e,74,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c6]
+"balwaysAppear"=dword:00000000
+"sname"=hex:6d,69,63,72,6f,73,6f,66,74,54,65,61,6d,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConnector\cv1\corder\cen0us\corder_for_left_rail\c7]
+"balwaysAppear"=dword:00000000
+"sname"=hex:7a,6f,6f,6d,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConversionFromPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConversionFromPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConversionToPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVConversionToPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVEntitlement]
+"bAppInitialized"=dword:00000001
+"iEntitlementLevel"=dword:00000001
+"bIsNGLLicensing"=dword:00000001
+"bSynchronizeNGL"=dword:00000001
+"bEnableReaderPassThroughForReducedMode"=dword:00000000
+"sGeoCache"=hex:50,48,00
+"iIPMDiffClientIdThreshold"=dword:00000005
+"bNGLWinHttpAsyncAvailable"=dword:00000000
+"bNGLWinHttpAsyncEnabled"=dword:00000000
+"bUseDifferentIMSClientId"=dword:00000000
+"sAppEntitlementStatus"=hex:4e,4f,56,41,4c,55,45,00
+"sDeviceID"=hex:00
+"sProductVersion"=hex:31,32,2e,30,00
+"sUserEmail"=hex:00
+"sUserGUID"=hex:00
+"sProductName"=hex:41,64,6f,62,65,20,41,63,72,6f,62,61,74,00
+"sProductGUID"=hex:41,43,52,4f,5f,52,45,53,49,44,55,45,00
+"bActivated"=dword:00000000
+"bSynchronizeOPL"=dword:00000000
+"bIsDataValidForNGL"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral]
+"bHonorOSTheme"=dword:00000001
+"bIPMEnableAV2ReaderNewUser"=dword:00000001
+"bIsEnterpriseUser"=dword:00000000
+"bIsNewUser"=dword:00000001
+"bLogPrefsUsageData"=dword:00000000
+"bNewUserForModernization"=dword:00000001
+"iNumAcrobatLaunches"=dword:00000044
+"bTrySystemTheme"=dword:00000000
+"iSLExitTimeHighPart"=dword:01db8e39
+"iSLExitTimeLowPart"=dword:d16b93d0
+"bToggleAppContainerTemporarily"=dword:00000001
+"iAV2ViewerAllToolsState"=dword:00000004
+"uLastAppLaunchTimeStamp"=dword:f41e4cb0
+"uThemeBackgroundColor"=dword:00ffffff
+"iAdobeSignSurveyVariant"=dword:00000000
+"iContextPopupOption"=dword:00000002
+"iEnableOutlookEditTool"=dword:00000000
+"bFieldDetectionEnableWithIPM"=dword:00000000
+"bForceQuitApp"=dword:00000000
+"bGTHistoryEntriesMigrationToChatsDone"=dword:00000001
+"sGeoLocationCountryCode"=hex:50,48,00
+"bIMSThrottlingDisabledViaIPM"=dword:00000000
+"bIsUserSignedInFromChina"=dword:00000000
+"uLastSessionTimeStamp"=dword:67ab09c6
+"sMRUList"=hex:41,63,72,6f,62,61,74,2e,65,78,65,00
+"iNumOfAVDocsOpened"=dword:0000004a
+"iNumSessionAV2"=dword:00000035
+"iPDFOnwerType"=dword:00000001
+"iResetCollabShareExperimentPreferences"=dword:00000001
+"bShowWhatsNewExpContentAgain"=dword:00000000
+"iWhatsNewExpContentShownCount"=dword:00000001
+"bappFirstLaunchForNotifications"=dword:00000000
+"bisFirstLaunch"=dword:00000000
+"iAppContainerPluginLoadTimeLimit"=dword:00001388
+"uAppPrevLaunchTimeStamp"=dword:67ab09c6
+"bCombineDragAndDropExp"=dword:00000000
+"bGPUDetailsLogged"=dword:00000001
+"iMaxFrequentlyUsedTools"=dword:00000005
+"bPDFMOutlookShareAddin"=dword:00000000
+"bPDFMShareShareButtonInFileTab"=dword:00000000
+"iPdfMakerExcelDialogSkip"=dword:00000000
+"bPromptBeforeClosingMultipleTabs"=dword:00000001
+"bRunAppContainerDisablementLogic"=dword:00000001
+"bSCARdrCrashReporterEnabled"=dword:00000000
+"iSendAsLinkAddinReaderMode"=dword:00000000
+"iSendAsLinkAddinReplyStrip"=dword:00000000
+"iUserSignedInOtherAdobeAppsLastTime"=dword:00075dce
+"uAppLastLaunchInterval"=dword:0000000d
+"bEnableEchoSignAuthViaCEF"=dword:00000000
+"bPromptRequestSignAfterEdit"=dword:00000000
+"bPromptRequestSignAttachToEmail"=dword:00000000
+"bRequestSignInFileMenu"=dword:00000001
+"iWhatsNewExpContentRotation"=dword:00000000
+"iCollabOfflineCommentToShareExpCTLastShownTime"=dword:00075e72
+"iCollabShareExpCTLastPerformedWorkflow"=dword:00000002
+"iCollabShareExpCTLastPerformedWorkflowSubType"=dword:00000002
+"iCollabShareExpCTLastShownTime"=dword:00075e72
+"iCollabShareExpCTLastShownWorkflowExp"=dword:00000002
+"bShowedSkipCard"=dword:00000001
+"iLastWebCaptureAddinDisplayTime"=dword:67a94a78
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cAcrobatUpsellTracking]
+"tSophiaTrackingParam"="RGSE0285-EN-ControlV2"
+"tTrackingParam"="RGS0377-%S-Challenger1"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cDockables]
+"bExternalTabs"=dword:00000000
+"bInternalTabs"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cDockables\cGenTechAcrobatAI]
+"bTabVisible"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cDockables\cPDFStandards]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cEditMenuRationalizeExperiment]
+"iVariant"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cOnboardingContextual]
+"iNumberOfTimesShown"=dword:00000000
+"iNumTimesAutoDocOpenOptInCTShown"=dword:00000003
+"bCTShownOnHighlight"=dword:00000001
+"iNumTimesCollabOfflineCommentToShareExperiment"=dword:00000001
+"iNumTimesUnPinQuickToolCardVisible"=dword:00000001
+"iCTDisabledChromeExtensionCount"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\CrashDataAtLaunch]
+"iCrashCountAtLaunch"=dword:00000001
+"iTimeOfFirstCrashAtLaunchHighPart"=dword:01db7c5e
+"iTimeOfFirstCrashAtLaunchLowPart"=dword:b4cee6b0
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c1]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/DISCUSSION/week 2 Fundamentals of Graphics design  and elements of graphics.pdf"
+"tFileName"="week 2 Fundamentals of Graphics design  and elements of graphics.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,55,53,\
+  53,49,4f,4e,2f,77,65,65,6b,20,32,20,46,75,6e,64,61,6d,65,6e,74,61,6c,73,20,\
+  6f,66,20,47,72,61,70,68,69,63,73,20,64,65,73,69,67,6e,20,20,61,6e,64,20,65,\
+  6c,65,6d,65,6e,74,73,20,6f,66,20,67,72,61,70,68,69,63,73,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,31,31,36,32,36,35,35,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:003d1a28
+"uPageCount"=dword:00000028
+"sAssetId"=hex:00
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c10]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/Color Theory 2.pdf"
+"tFileName"="Color Theory 2.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,43,6f,6c,6f,72,20,\
+  54,68,65,6f,72,79,20,32,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,37,31,31,35,37,32,34,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00f86eaa
+"uPageCount"=dword:00000030
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c11]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/332007310.pdf"
+"tFileName"="332007310.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,33,33,32,30,30,37,33,31,30,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,37,31,31,34,37,33,31,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:000d1256
+"uPageCount"=dword:0000000a
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c12]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/771261963.pdf"
+"tFileName"="771261963.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,37,37,31,32,36,31,39,36,33,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,37,31,31,33,38,30,32,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0022a88c
+"uPageCount"=dword:0000002b
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c13]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/882317207.pdf"
+"tFileName"="882317207.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,38,38,32,33,31,37,32,30,37,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,37,31,31,33,34,33,39,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:003d1a28
+"uPageCount"=dword:00000028
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c14]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/POJAS_ITPC-112-Syllabus.pdf"
+"tFileName"="POJAS_ITPC-112-Syllabus.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,50,4f,4a,41,53,5f,\
+  49,54,50,43,2d,31,31,32,2d,53,79,6c,6c,61,62,75,73,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,35,31,35,35,34,31,31,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:000a8598
+"uPageCount"=dword:0000000f
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c15]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/Color Theory 1.pdf"
+"tFileName"="Color Theory 1.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,43,6f,6c,6f,72,20,\
+  54,68,65,6f,72,79,20,31,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,35,31,35,34,34,33,30,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:002c081f
+"uPageCount"=dword:00000024
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c16]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/Week 1 - 2 Intro to VGD.pdf"
+"tFileName"="Week 1 - 2 Intro to VGD.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,57,65,65,6b,20,31,\
+  20,2d,20,32,20,49,6e,74,72,6f,20,74,6f,20,56,47,44,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,35,31,35,34,33,35,32,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0032e7f9
+"uPageCount"=dword:00000036
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c17]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/Chapter 3 Principles of Graphics Design.pdf"
+"tFileName"="Chapter 3 Principles of Graphics Design.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,43,68,61,70,74,65,\
+  72,20,33,20,50,72,69,6e,63,69,70,6c,65,73,20,6f,66,20,47,72,61,70,68,69,63,\
+  73,20,44,65,73,69,67,6e,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,35,31,35,34,32,35,33,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:010f4198
+"uPageCount"=dword:00000043
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c18]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/certificate.pdf"
+"tFileName"="certificate.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,63,65,72,74,69,66,69,63,61,74,65,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,35,31,30,35,36,31,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00017c3e
+"uPageCount"=dword:00000001
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c19]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/DOCUMENTS/CERTIFICATES/ASSCAT Facilitators.pdf"
+"tFileName"="ASSCAT Facilitators.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,44,4f,43,55,4d,45,4e,54,53,2f,43,45,52,\
+  54,49,46,49,43,41,54,45,53,2f,41,53,53,43,41,54,20,46,61,63,69,6c,69,74,61,\
+  74,6f,72,73,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,35,31,30,31,37,34,35,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00044bd6
+"uPageCount"=dword:00000001
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c2]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/DISCUSSION/week 4 adobe photoshop - raster and vector.pdf"
+"tFileName"="week 4 adobe photoshop - raster and vector.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,55,53,\
+  53,49,4f,4e,2f,77,65,65,6b,20,34,20,61,64,6f,62,65,20,70,68,6f,74,6f,73,68,\
+  6f,70,20,2d,20,72,61,73,74,65,72,20,61,6e,64,20,76,65,63,74,6f,72,2e,70,64,\
+  66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,31,31,36,32,36,33,37,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0022a88c
+"uPageCount"=dword:0000002b
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c20]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/IS 113/BSIS_IS-14_EA.pdf"
+"tFileName"="BSIS_IS-14_EA.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,53,20,31,31,33,2f,42,53,49,53,5f,49,53,2d,\
+  31,34,5f,45,41,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,35,30,38,35,31,34,39,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00071965
+"uPageCount"=dword:0000000c
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c21]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/ASSCAT Participants (1).pdf"
+"tFileName"="ASSCAT Participants (1).pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,41,53,53,43,41,54,20,50,61,72,74,69,63,69,70,61,6e,74,73,20,28,31,29,2e,\
+  70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,34,31,30,32,37,32,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00040e42
+"uPageCount"=dword:00000001
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c22]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/ASSCAT Participants.pdf"
+"tFileName"="ASSCAT Participants.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,41,53,53,43,41,54,20,50,61,72,74,69,63,69,70,61,6e,74,73,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,34,31,30,32,37,31,37,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00040e42
+"uPageCount"=dword:00000001
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c23]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/ASSCAT Facilitators.pdf"
+"tFileName"="ASSCAT Facilitators.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,41,53,53,43,41,54,20,46,61,63,69,6c,69,74,61,74,6f,72,73,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,34,31,30,32,37,31,30,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00044bd6
+"uPageCount"=dword:00000001
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c24]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/NC.pdf"
+"tFileName"="NC.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,4e,43,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,30,34,31,30,32,35,35,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:000b5506
+"uPageCount"=dword:00000001
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c25]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/Intro to EA.pdf"
+"tFileName"="Intro to EA.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,49,6e,74,72,6f,20,74,6f,20,45,41,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,33,31,31,32,34,31,32,35,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00df99d3
+"uPageCount"=dword:0000004c
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c26]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/POJAS_ITPC-112-Syallabus.pdf"
+"tFileName"="POJAS_ITPC-112-Syallabus.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,50,4f,4a,41,53,5f,\
+  49,54,50,43,2d,31,31,32,2d,53,79,61,6c,6c,61,62,75,73,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,33,31,30,39,33,31,33,31,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:000a8598
+"uPageCount"=dword:0000000f
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c27]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/The principles of design.pdf"
+"tFileName"="The principles of design.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,54,68,65,20,70,72,\
+  69,6e,63,69,70,6c,65,73,20,6f,66,20,64,65,73,69,67,6e,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,38,31,35,34,39,32,31,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0134908b
+"uPageCount"=dword:00000034
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c28]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/VGD Syllabus.pdf"
+"tFileName"="VGD Syllabus.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,56,47,44,20,53,79,\
+  6c,6c,61,62,75,73,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,38,31,30,31,33,30,30,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0039dc52
+"uPageCount"=dword:0000000e
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c29]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/1683225260.pdf"
+"tFileName"="1683225260.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,31,36,38,33,32,32,35,32,36,30,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,36,30,31,32,34,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00f86eaa
+"uPageCount"=dword:00000030
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c3]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/DISCUSSION/week 4 Color Theory 2.pdf"
+"tFileName"="week 4 Color Theory 2.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,55,53,\
+  53,49,4f,4e,2f,77,65,65,6b,20,34,20,43,6f,6c,6f,72,20,54,68,65,6f,72,79,20,\
+  32,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,31,31,35,35,32,34,39,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00f86eaa
+"uPageCount"=dword:00000030
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c30]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/348149472.pdf"
+"tFileName"="348149472.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,33,34,38,31,34,39,34,37,32,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,35,35,38,34,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:002c081f
+"uPageCount"=dword:00000024
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c31]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/1957980680.pdf"
+"tFileName"="1957980680.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,31,39,35,37,39,38,30,36,38,30,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,35,35,31,32,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00df99d3
+"uPageCount"=dword:0000004c
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c32]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/282555234.pdf"
+"tFileName"="282555234.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,32,38,32,35,35,35,32,33,34,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,35,35,31,31,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0134908b
+"uPageCount"=dword:00000034
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c33]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/Principles of Graphics Design.pdf"
+"tFileName"="Principles of Graphics Design.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,50,72,69,6e,63,69,70,6c,65,73,20,6f,66,20,47,72,61,70,68,69,63,73,20,44,\
+  65,73,69,67,6e,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,35,35,30,30,31,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:010f4198
+"uPageCount"=dword:00000043
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c34]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/758611484.pdf"
+"tFileName"="758611484.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,37,35,38,36,31,31,34,38,34,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,35,34,37,34,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:010f4198
+"uPageCount"=dword:00000043
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c35]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/2064139290.pdf"
+"tFileName"="2064139290.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,32,30,36,34,31,33,39,32,39,30,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,35,30,31,33,33,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0032e7f9
+"uPageCount"=dword:00000036
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c36]
+"aFS"="DOS"
+"tDIText"="/E/ASSCAT/2ND SEMESTER 2024-2025/IS 113/Weel 1 - 2 Intro to Enterprise Architecture.pdf"
+"tFileName"="Weel 1 - 2 Intro to Enterprise Architecture.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,45,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,53,20,31,31,33,2f,57,65,65,6c,20,31,20,2d,\
+  20,32,20,49,6e,74,72,6f,20,74,6f,20,45,6e,74,65,72,70,72,69,73,65,20,41,72,\
+  63,68,69,74,65,63,74,75,72,65,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,34,34,35,35,31,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00c601cb
+"uPageCount"=dword:00000026
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c37]
+"aFS"="DOS"
+"tDIText"="/C/Users/NITO/Downloads/421682069.pdf"
+"tFileName"="421682069.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,34,32,31,36,38,32,30,36,39,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,31,32,37,31,34,34,34,32,38,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00c601cb
+"uPageCount"=dword:00000026
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c4]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/DISCUSSION/week 4 Color Theory 1.pdf"
+"tFileName"="week 4 Color Theory 1.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,55,53,\
+  53,49,4f,4e,2f,77,65,65,6b,20,34,20,43,6f,6c,6f,72,20,54,68,65,6f,72,79,20,\
+  31,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,31,31,34,31,33,31,33,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:002c081f
+"uPageCount"=dword:00000024
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c5]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ISELECT 104/POJAS_ISELECT 104_2ND SEMESTER_2024-2025.pdf"
+"tFileName"="POJAS_ISELECT 104_2ND SEMESTER_2024-2025.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,53,45,4c,45,43,54,20,31,30,34,2f,50,4f,4a,\
+  41,53,5f,49,53,45,4c,45,43,54,20,31,30,34,5f,32,4e,44,20,53,45,4d,45,53,54,\
+  45,52,5f,32,30,32,34,2d,32,30,32,35,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,30,31,36,34,33,33,39,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0009796f
+"uPageCount"=dword:0000000d
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c6]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ISELECT 104/BSIS_DPO.pdf"
+"tFileName"="BSIS_DPO.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,53,45,4c,45,43,54,20,31,30,34,2f,42,53,49,\
+  53,5f,44,50,4f,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,30,31,36,34,33,33,31,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0006d1ab
+"uPageCount"=dword:0000000d
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c7]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/week 4 adobe photoshop - raster and vector.pdf"
+"tFileName"="week 4 adobe photoshop - raster and vector.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,77,65,65,6b,20,34,\
+  20,61,64,6f,62,65,20,70,68,6f,74,6f,73,68,6f,70,20,2d,20,72,61,73,74,65,72,\
+  20,61,6e,64,20,76,65,63,74,6f,72,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,30,30,39,31,32,35,36,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:0022a88c
+"uPageCount"=dword:0000002b
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c8]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/week 4 Color Theory 2.pdf"
+"tFileName"="week 4 Color Theory 2.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,77,65,65,6b,20,34,\
+  20,43,6f,6c,6f,72,20,54,68,65,6f,72,79,20,32,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,30,30,39,30,37,32,36,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:00f86eaa
+"uPageCount"=dword:00000030
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFiles\c9]
+"aFS"="DOS"
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/week 4 Color Theory 1.pdf"
+"tFileName"="week 4 Color Theory 1.pdf"
+"tFileSource"="local"
+"sFileAncestors"=hex:5b,5d,00
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,77,65,65,6b,20,34,\
+  20,43,6f,6c,6f,72,20,54,68,65,6f,72,79,20,31,2e,70,64,66,00
+"sDate"=hex:44,3a,32,30,32,35,30,32,31,30,30,38,33,37,33,35,2b,30,38,27,30,30,\
+  27,00
+"uFileSize"=dword:002c081f
+"uPageCount"=dword:00000024
+"bisSharedFile"=dword:00000000
+"iIsScannedFile"=dword:00000000
+"iIsFileLangSupported"=dword:00000000
+"uIsFileLangSupportedTimeStamp"=dword:00000000
+"uDocPropCacheTimeStamp"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders\c1]
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,44,49,53,43,55,53,\
+  53,49,4f,4e,2f,00
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/DISCUSSION/"
+"tDisplayText"="DISCUSSION"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders\c2]
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,53,45,4c,45,43,54,20,31,30,34,2f,00
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ISELECT 104/"
+"tDisplayText"="ISELECT 104"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders\c3]
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,32,4e,44,20,53,45,4d,45,53,54,45,52,20,\
+  32,30,32,34,2d,32,30,32,35,2f,49,54,50,43,20,31,31,32,2f,00
+"tDIText"="/D/ASSCAT/2ND SEMESTER 2024-2025/ITPC 112/"
+"tDisplayText"="ITPC 112"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders\c4]
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,4e,49,54,4f,2f,44,6f,77,6e,6c,6f,61,64,73,\
+  2f,00
+"tDIText"="/C/Users/NITO/Downloads/"
+"tDisplayText"="Downloads"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentFolders\c5]
+"sDI"=hex:2f,44,2f,41,53,53,43,41,54,2f,44,4f,43,55,4d,45,4e,54,53,2f,43,45,52,\
+  54,49,46,49,43,41,54,45,53,2f,00
+"tDIText"="/D/ASSCAT/DOCUMENTS/CERTIFICATES/"
+"tDisplayText"="CERTIFICATES"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentToolsList]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentToolsList\c0]
+"icount"=dword:00000001
+"aid"="Text"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRecentToolsList\c1]
+"icount"=dword:00000005
+"aid"="Highlight"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cRHPAlignmentExperiment]
+"iVariant"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cTaskPanes]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cTaskPanes\cBasicCommentPane]
+"bAllowMultipleExpandedPanels"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cToolbars]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cToolbars\cAdvCommenting]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cToolbars\cBasicCommenting]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cToolbars\cCommenting]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cToolbars\cCommenting\cStamp]
+"bInternalExpanded"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVGeneral\cUUIDs]
+"suser"=hex:61,32,62,66,38,38,39,31,2d,66,30,64,61,2d,34,36,31,66,2d,39,32,34,\
+  64,2d,66,36,62,35,62,39,65,33,35,31,31,66,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVPrivate]
+"sDailyAnalyticsLastSyncDate"=hex:32,30,32,35,2e,30,32,2e,31,31,20,30,36,3a,31,\
+  33,3a,30,37,20,5a,00
+"bDisableHBLogging"=dword:00000000
+"bDisableMacHangFixDunamis"=dword:00000000
+"bEnableAcroMLHangFixCode"=dword:00000000
+"bEnableAcroTrayDunamisAnalytics"=dword:00000000
+"bEnableAcroTrayDunamisDGAnalytics"=dword:00000000
+"bEnableBackupAnalytics"=dword:00000000
+"bEnableDunamisAnalyticsOnReaderGenAI"=dword:00000001
+"bEnableMPEventDunamisAnalytics"=dword:00000000
+"bEnableSynchronizerDunamisAnalytics"=dword:00000000
+"bReaderOnboardingPaywallCardShown"=dword:00000001
+"sWeeklyAnalyticsLastSyncDate"=hex:32,30,32,35,2e,30,32,2e,31,30,20,30,31,3a,\
+  30,37,3a,33,30,20,5a,00
+"bForceResetDefaultColor"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\AVTracker]
+"bLoadOnStart"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\CEF]
+"bDisableGPU"=dword:00000000
+"bExplicitLibCEFLoading"=dword:00000000
+"bEnableGPUCrashFix"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab]
+"aServer"="CONFIG"
+"bUSSEnabledForGeoLocation"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cDocumentCenter]
+"bAlwaysUseServer"=dword:00000000
+"bAlwaysUseServerFD"=dword:00000000
+"bDefault"=dword:00000001
+"bDefaultFD"=dword:00000001
+"tDistMethod"="UPLOAD"
+"tUI"="Adobe online services (Recommended)"
+"tURL"="urn://ns.adobe.com/Collaboration/SharedReview/Acrobat.com"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cDocumentCenter\cSettings]
+"tcSetting"="https://api.share.acrobat.com"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cEmailDistribution]
+"bAlwaysUseServerFD"=dword:00000000
+"bDefaultFD"=dword:00000000
+"tDistMethod"="EMAIL"
+"tUI"="Manually collect responses in my email inbox"
+"tURL"="urn://ns.adobe.com/Collaboration/Forms/Email"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cEmailDistribution\cSettings]
+"tcSetting"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cInitiationWizardFirstLaunch]
+"bIsFirstLaunchER"=dword:00000001
+"bIsFirstLaunchFD"=dword:00000001
+"bIsFirstLaunchSF"=dword:00000001
+"bIsFirstLaunchSR"=dword:00000001
+"bIsFirstLaunchUF"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cInternalServer]
+"bAlwaysUseServerFD"=dword:00000000
+"bDefaultFD"=dword:00000000
+"tDistMethod"="InternalServer"
+"tUI"="Automatically collect responses on my own internal server"
+"tURL"="urn://ns.adobe.com/Collaboration/Forms/InternalServer"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cInternalServer\cSettings]
+"tcSetting"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Collab\cServerSettings]
+"tCONFIG"=""
+"tDAVFDF"=""
+"tFSFDF"=""
+"tNONE"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\ConnectorIconCache]
+"iDelayCount"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\CoolOffProcSchedulerSection]
+"uGeoCacheTime"=dword:67a94a4b
+"bReaderRetentionSignedOutDlg"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\CrossSurfaceDiscovery]
+"bIsEdgeExtnInstalledAndEnabled"=dword:00000000
+"bIsChromeExtnInstalledAndEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\DetectSign]
+"bforceRun"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\DiskCabs]
+"bForms_AdhocWorkflowBackup"=dword:00000000
+"bJSCache_GlobData"=dword:00000001
+"bJSCache_GlobSettings"=dword:00000001
+"bForms_AdhocWorkflow"=dword:00000000
+"bCollab_OfflineDocs"=dword:00000000
+"bCollab_Workflows"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\DLLInjection]
+"bBlockDLLInjection"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\EditIntentBezelSection]
+"iEdit1"=dword:00000001
+"bExperimentBezelDoNotShowAgain"=dword:00000001
+"dExperimentGlobalLastBezelTime"="1738026521.000000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\ExitSection]
+"bLastExitNormal"=dword:00000001
+"iForceExitReason"=dword:ffffffff
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\FillSign]
+"iFSSVariant"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\FlashDebug]
+"bAutomationEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\FTE]
+"bChromeExtnFTEShown"=dword:00000001
+"bChromeExtnFTEVal"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\FTEDialog]
+"bShowWhatsNewAgainWasSet"=dword:00000000
+"bShownViewerOnboarding"=dword:00000001
+"sWelcomeCardShownTime"=hex:32,35,30,31,32,37,30,36,31,32,32,33,5a,00
+"iWhatNewCardShownType"=dword:00000000
+"sWHATS_NEW_10016initDate"=hex:32,35,30,31,32,37,30,37,30,31,32,30,5a,00
+"sWHATS_NEW_10017initDate"=hex:32,35,30,31,32,37,30,37,30,31,32,30,5a,00
+"sWHATS_NEW_10046initDate"=hex:32,35,30,31,32,37,30,37,30,31,32,30,5a,00
+"sWHATS_NEW_10051initDate"=hex:32,35,30,31,32,37,30,37,30,31,32,30,5a,00
+"bIsAcrobatUpdateAvailableToShowWhatsNew"=dword:00000000
+"bIsWhatsNewDialogShown"=dword:00000001
+"iFTEVersion"=dword:0000000a
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Gentech]
+"bEnableOSRCMGenTech"=dword:00000000
+"uBTSPromotionsEndTime"=dword:6aa9a618
+"uBTSPromotionsStartTime"=dword:66e81208
+"tGentechUpsellRegistry"=""
+"uUnlimitedOfferEndTime"=dword:667eddc4
+"uUnlimitedOfferStartTime"=dword:66715aa0
+"bEnableAutoConsentGenTech"=dword:00000001
+"bEnableGentechOnboarding"=dword:00000001
+"iGTTooltipForNumPagesLastShownTime"=dword:00075ed3
+"iGenTechAnimatedTooltipShownCount"=dword:00000004
+"uTimeStampAtIPMEnabledLangsChanged"=dword:67a95154
+"uGTLastShownPromotion"=dword:00000002
+"iGTOnboardingLastShownTime"=dword:00075f18
+"bGenTechWhatsNewShown"=dword:00000001
+"sGTLastShownCoachmark"=hex:6b,65,79,5f,71,75,65,73,74,69,6f,6e,73,00
+"iGTQnACoachmarkNumTimesShown"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Gentech\cCachedIPMEnabledLanguages]
+"s0"=hex:66,72,00
+"s1"=hex:64,65,00
+"s2"=hex:69,74,00
+"s3"=hex:65,73,00
+"s4"=hex:70,74,00
+"s5"=hex:6a,61,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Gentech\cIPMEnabledLanguages]
+"s0"=hex:66,72,00
+"s1"=hex:64,65,00
+"s2"=hex:69,74,00
+"s3"=hex:65,73,00
+"s4"=hex:70,74,00
+"s5"=hex:6a,61,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Gentech\cPLGData]
+"iEnableICConsentedUserGenTechV2"=dword:00000001
+"sFunnelName"=hex:49,43,43,6f,6e,73,65,6e,74,65,64,50,65,72,73,6f,6e,61,42,61,\
+  73,65,64,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\GeoLoggingLimits]
+"sLastGeoLoggingTime"=hex:32,35,30,31,32,37,30,36,31,32,32,32,5a,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\HomeWelcome]
+"iKillSwitchCheckDay"=dword:0134fe62
+"bKillSwitchOn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\HomeWelcomeFirstMile]
+"iCardCountShown"=dword:00000041
+"iCurrentRHSCard"=dword:00000028
+"bHasShownSignInCard"=dword:00000001
+"sLastTimeShown"=hex:32,35,30,31,32,37,30,36,34,37,32,31,5a,00
+"iFirstMileStage"=dword:00000001
+"bHasShownGenTechAskAICard"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IMS]
+"sAgeTag"=hex:00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Installer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Installer\Migrated]
+"{AC76BA86-1033-1033-7760-BC15014EA700}"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPM]
+"bMakeAccessibleCrashFixEnabled"=dword:00000001
+"b4304509"=dword:00000001
+"bCAIIPM"=dword:00000001
+"bEnableIPMCrashFix"=dword:00000001
+"bPopupLimitsIPM"=dword:00000000
+"bScannedDocsTransformIPM"=dword:00000001
+"bpairID"=dword:00000001
+"bbEnableHangMonitor"=dword:00000000
+"iiHangCollectionTimeInMilliSeconds"=dword:00007530
+"bPageNumScrollTooltipEnabledForConsumer"=dword:00000000
+"bQTViewEnabledForConsumer"=dword:00000000
+"bColoredIconCacheIPM"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments]
+"iIPMUpsellPingContextID"=dword:000002ab
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cCentralAvatarInfra]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cCollabIconRefreshExp]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cCollabOfflineCommentToShareExp]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cDirectManipulationIPMConsumer]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableAcroFormDeferFreeExpRdr]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableAutoConsentGentechReader]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableAutoSpellCheck]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableEnhancedSharingExperience]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableGenTechPLGExperiments]
+"sData"=hex:7b,20,22,76,61,72,69,61,6e,74,73,22,3a,20,5b,7b,22,65,6e,64,22,3a,\
+  20,39,39,39,39,2c,22,46,75,6e,6e,65,6c,4e,61,6d,65,22,3a,20,22,49,43,43,6f,\
+  6e,73,65,6e,74,65,64,50,65,72,73,6f,6e,61,42,61,73,65,64,22,2c,20,22,45,6e,\
+  61,62,6c,65,49,43,43,6f,6e,73,65,6e,74,65,64,55,73,65,72,47,65,6e,54,65,63,\
+  68,56,32,22,3a,20,31,2c,22,73,74,61,72,74,22,3a,20,30,7d,5d,20,7d,00
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableGTForAnonUsers]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableNewTiles]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableNewUndoRedoCommentExperience]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cEnableReplaceAnnotsForSharedFiles]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cIPMUpsellPingExp]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cIPTIntuitiveCategoriesGTExp]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cIsScrollingPerfOptimizationEnabled]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cIsZoomPerfOptimizationEnabled]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cNewMegaverbRCMExp]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cPDFMakerExpRdr]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cPPS]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cReaderEditBBoxesExp]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cReaderEditSimplificationExp]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cReaderGTFloatingBar]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cScrollingLoggerEnabled]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cSendAsLinkAddinSignedInReaderMode]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cSendMailMerchandizeReaderExp_Dec]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cSophiaEnabledDTNotificationsAug2024]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cUnifiedShareSheetExperiment]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cUpsellPropensityExperiment]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\IPMExperiments\cWaffleMenuExpForRdrAndRedMode]
+"bIsApplicableForCurrentGeo"=dword:00000001
+"bIsApplicableForCurrentLocale"=dword:00000001
+"bIsApplicableForCurrentPropensity"=dword:00000001
+"bIsApplicableForCurrentUserType"=dword:00000001
+"bIsApplicableForCurrentViewerType"=dword:00000001
+"iVariant"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language\current]
+@="acrobat.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language\next]
+@="acrobat.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Language\UseMUI]
+"bUseMUI"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\NoTimeOut]
+"smailto"=hex:59,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\OnBoardingSection]
+"sappVersion"=hex:32,34,32,34,35,00
+"ihomeViewVersion"=dword:00000000
+"slocale"=hex:65,6e,2d,75,73,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\OnBoardingSection\chomeView]
+"sBannerContent"=hex:57,6f,72,6b,20,6f,6e,20,74,68,65,20,67,6f,20,77,69,74,68,\
+  20,74,68,65,20,41,64,6f,62,65,20,41,63,72,6f,62,61,74,20,52,65,61,64,65,72,\
+  20,61,70,70,2e,20,41,6e,6e,6f,74,61,74,65,2c,20,73,69,67,6e,2c,20,61,6e,64,\
+  20,73,68,61,72,65,20,50,44,46,73,20,6f,6e,20,79,6f,75,72,20,70,68,6f,6e,65,\
+  2c,20,61,6e,64,20,65,64,69,74,20,6f,6e,20,74,61,62,6c,65,74,73,2e,00
+"sBannerTitle"=hex:47,65,74,20,41,70,70,00
+"sCardContent"=hex:41,63,72,6f,62,61,74,4d,6f,62,69,6c,65,43,61,72,64,00
+"sCardTitle"=hex:4d,6f,62,69,6c,65,41,63,72,6f,62,61,74,43,61,72,64,00
+"sCardType"=hex:4c,61,75,6e,63,68,46,54,45,43,61,72,64,00
+"sOffset"=hex:34,33,38,30,30,00
+"ifirst_display"=dword:00075d3c
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Originals]
+"bDisplayedSplash"=dword:00000001
+"sProofingSpace"=hex:55,2e,53,2e,20,57,65,62,20,43,6f,61,74,65,64,20,28,53,57,\
+  4f,50,29,20,76,32,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\OSRCMRdrExp]
+"bOSRCMExperiment"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\PDFMakerExpRdr]
+"LastPingETime"=dword:67aaea77
+"isPingTimeInitialized"=hex(0):01,00,00,00
+"bIsCPDFMakerExpEnabled"=dword:00000001
+"bIsSubscribedOrPDFPackUser"=dword:00000000
+"bSettingLoadBehaviourForFirstTime"=dword:00000000
+"WorkflowState"=hex(0):01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\PDFOwnershipDMB]
+"bShowPDFOwnershipPersistentBannerEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\PlatformViews]
+"bPlatformViewEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Private]
+"bDirectManipulationEnabledLog"=dword:00000000
+"bShouldUseRenderingPerfImprovements"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Private\cDCompWhiteListedGPUs]
+"sDevice0"=hex:49,6e,74,65,6c,28,52,29,20,55,48,44,20,47,72,61,70,68,69,63,73,\
+  00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Privileged]
+"bAccReportPrefMigrated"=dword:00000001
+"bTouchUpPrefMigrated"=dword:00000001
+"bProtectedMode"=dword:00000001
+"bOldRecentFilesMigrated"=dword:00000001
+"syncFolderSetupDone"=dword:00000001
+"tURLWhiteList"="f8c527ed2767abe439cc3ce35fb2f0bf|8a0421a37ff44072db28d0667f9bfcae|d96188c1dc5ed5e30ce8d1ece0910dd4|208544f372694aee11100fb8aa59504d"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\ReaderUserType]
+"iInstalledAppsScore"=dword:000000fa
+"iMachineLevelInfoTimestamp"=dword:00075f36
+"iReaderUserSMBScore"=dword:00000026
+"iSuccessfulRSCount"=dword:00000000
+"iSuccessfulRSLastTimeStamp"=dword:00000000
+"bUsesEnterpriseGradeOfficeApplications"=dword:00000001
+"bUsesOfficeApplications"=dword:00000001
+"iDocsWithCommentCount"=dword:00000002
+"iDocsWithCommentLastTimeOpened"=dword:00075de2
+"iCommentsInPDFsScore"=dword:00000019
+"iNonPwdProtectedDocCount"=dword:00000001
+"iNonPwdProtectedDocLastTimeOpened"=dword:00075e8a
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SCA]
+"bIsLastReaderSession"=dword:00000001
+"bEnableTransitionPings"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SDI]
+"bMaximizeNextDocument"=dword:00000001
+"bNullDocMaximized"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security]
+"bIsEnterpriseUser"=dword:00000000
+"bWinEventProcessing"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c290FA7E61053E8763C6055E6333A99EFB83ECACB]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c290FA7E61053E8763C6055E6333A99EFB83ECACB\cAdobe_OCSPRevChecker]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c290FA7E61053E8763C6055E6333A99EFB83ECACB\cAdobe_OCSPRevChecker\cAuthorizedResponder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c290FA7E61053E8763C6055E6333A99EFB83ECACB\cAdobe_OCSPRevChecker\cAuthorizedResponder\c0]
+"bValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_ChainBuilder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c0]
+"iEnd"=dword:00000001
+"iStart"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c0\cValue]
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,36,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,2e,31,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c1]
+"iEnd"=dword:00000002
+"iStart"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c1\cValue]
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,32,00
+"s2"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,37,2e,32,00
+"s3"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,31,00
+"s4"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,32,00
+"s5"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,33,2e,32,00
+"s6"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,36,2e,32,00
+"s7"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,39,2e,32,00
+"s8"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,32,2e,32,00
+"s9"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,35,2e,32,00
+"s10"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,38,2e,32,00
+"s11"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,33,30,2e,32,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cAuthorizedResponder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cAuthorizedResponder\c0]
+"bValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cSendNonce]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cSendNonce\c0]
+"iValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cSignCertOID]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cSignCertOID\c0]
+"sValue"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cSignRequest]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cSignRequest\c0]
+"bValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cURLToConsult]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E310000\cAdobe_OCSPRevChecker\cURLToConsult\c0]
+"iValue"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_ChainBuilder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c0]
+"iEnd"=dword:00000001
+"iStart"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c0\cValue]
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,36,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,2e,31,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c1]
+"iEnd"=dword:00000002
+"iStart"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_ChainBuilder\cAcceptablePolicyOIDs\c1\cValue]
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,32,00
+"s2"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,37,2e,32,00
+"s3"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,31,00
+"s4"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,32,00
+"s5"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,33,2e,32,00
+"s6"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,36,2e,32,00
+"s7"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,39,2e,32,00
+"s8"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,32,2e,32,00
+"s9"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,35,2e,32,00
+"s10"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,38,2e,32,00
+"s11"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,33,30,2e,32,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cAuthorizedResponder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cAuthorizedResponder\c0]
+"bValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cSendNonce]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cSendNonce\c0]
+"iValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cSignCertOID]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cSignCertOID\c0]
+"sValue"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cSignRequest]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cSignRequest\c0]
+"bValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cURLToConsult]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E322E3834302E3131343032312E312E312E310000\cAdobe_OCSPRevChecker\cURLToConsult\c0]
+"iValue"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_ChainBuilder]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_ChainBuilder\cAllowCAToIssueAC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_ChainBuilder\cAllowCAToIssueAC\c0]
+"bValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_ChainBuilder\cCheckCABasicConstraints]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_ChainBuilder\cCheckCABasicConstraints\c0]
+"bValue"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_CRLRevChecker]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_CRLRevChecker\cRequireAKI]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_CRLRevChecker\cRequireAKI\c0]
+"bValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_OCSPRevChecker]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_OCSPRevChecker\cAllowOCSPNoCheck]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_OCSPRevChecker\cAllowOCSPNoCheck\c0]
+"bValue"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_OCSPRevChecker\cRequireOCSPCertHash]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_OCSPRevChecker\cRequireOCSPCertHash\c0]
+"bValue"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_Validation]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_Validation\cValidityModel]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cASPKI\cASPKI\cCustomCertPrefs\c312E332E33362E382E312E310000\cAdobe_Validation\cValidityModel\c0]
+"iValue"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cHandlers]
+"aPrivKey"="Adobe.PPKLite"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Security\cPPKHandler]
+"bCustomPrefsCreated"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Selection]
+"aDefaultSelect"="Select"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SendForSignature]
+"uAdobeSignQ2ExpTrackingTime"=dword:67aaea76
+"uAdobeSignQ3ExpTrackingTime"=dword:67aaea76
+"uAdobeSignQ4ExpTrackingTime"=dword:67aaea76
+"bEnableCustomSignIn"=dword:00000000
+"bEnableEducateAboutAdobeSign"=dword:00000000
+"bEnableReaderHomeSignIn"=dword:00000000
+"iFillSignDMBVariant"=dword:00000000
+"uLastLogged"=dword:67aaea76
+"iPPSPVariant"=dword:00000000
+"iPromoteRSVariant"=dword:00000000
+"iShowFillSignAutoNextPopUp"=dword:00000000
+"iEducateRecipientAboutSignVariant"=dword:00000001
+"bEnableSignCertifiedLocalCopy"=dword:00000001
+"bPromoteAdobeSignCTAllLocales"=dword:00000001
+"iShowReaderSignInDialog"=dword:00000000
+"iShowReaderSignInPopUp"=dword:00000000
+"bShowRightClickMenuSign"=dword:00000001
+"bSignMenuVariant"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement]
+"uLastAppExitTimeStamp"=dword:f41e5098
+"bNormalExit"=dword:00000001
+"bWaitForSignIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsCurrent]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\SessionManagement\cWindowsPrev]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Spelling]
+"bAutoSpellCheckExpEnabled"=dword:00000001
+"uNudgeFirstShownTime"=dword:67972f7f
+"uNudgeLastShownTime"=dword:679c24f6
+"iNudgeShownCount"=dword:00000000
+"iNudgeShownWeekCount"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\TMS]
+"bTmsEnabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Toast]
+"iClientToastNumber"=dword:00000019
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\TouchUp]
+"bAdobeFontsSupportEnabledIPM"=dword:00000000
+"bEnableAdobeFonts"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\UnifiedShare]
+"iShareVariant"=dword:00000006
+"iUSNewShareMode_V6"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\UpsellPropensity]
+"uStartTime"=dword:67972ce8
+"sUserPropensity"=hex:4e,45,57,55,53,45,52,00
+"uUpsellClicks"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\UpsellPropensity\cFreeTool]
+"upage_display"=dword:00000024
+"uprint_pdf"=dword:00000002
+"usend_for_review"=dword:00000006
+"usend_for_signature"=dword:00000001
+"ucopy"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\UpsellPropensity\cPaidTool]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\UsageMeasurement]
+"iDunamisThrottleRandomNum"=dword:00000045
+"bInstalledCleanupCheckDone"=dword:00000001
+"iDunamisThrottle"=dword:00000005
+"bThrottleApplied"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Window]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Window\cAVHelpWindow]
+"iBottom"=dword:0000007a
+"bCollapsed"=dword:00000000
+"iLeft"=dword:00000009
+"bMaximized"=dword:00000000
+"iRight"=dword:000000e1
+"iTop"=dword:00000026
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Workflows]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Workflows\cServices]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Workflows\cServices\cAccessLevelsConfiguration]
+"iAccessModesReg"=dword:00000000
+"iDefaultAccessModeReg"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\DC\Workflows\cServices\cScanAppKillSwitch]
+"bKillSwitchOn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0\ARM]
+"tTimeWaitedFilesInUse_AdobeARM"="3842179441thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB010000009B4A3AAE9FC19E40B6AD02AF39EAEC06000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E00000010660000000100002000000028819E02AD25D85EC118F785B7E8B12C48AB2A061666672E5639DFDDC4D589F6000000000E8000000002000020000000D690398021CF01513C32278A46E56978551975BBB7BC3B9C8556A060016B184810000000892EA02FD3DF3F61A19E2AF7C30ED38640000000864DB4C81A263ED9504CD93464B7568ADDA544DD97FBE1D983B199EFB5CAF7AC2A6778595D7707119F098870C0F3DEB313C7314EA4384A7A84035355E26E1F93"
+"tLastT_AdobeARM"="3842179441thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB010000009B4A3AAE9FC19E40B6AD02AF39EAEC06000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E0000001066000000010000200000005F2037DCBFC021D3D41F26EA29872AA2430F8B25F28696FBB1D1B1507FD6196A000000000E8000000002000020000000480C956D0C13FCACD2F69A3825D8F986DF86271D5390A0980DA2E3660325ACE5200000005B559C3FA7D5C9C83134278356975846AD25F3A3A2A9427F66A0A67D73C5FC9E40000000F972B505E02925BEA5322AE003C1CBF2B4B1DDBDFCDC14A52A0405D6DE02041BCCAB8604673572389D293060DBE43BBFFA09D6C1A1DAC3276B6A6BA6E0CDBC6E"
+"iSpeedLauncherLogonTime"=hex(b):45,5c,bd,2e,2c,8c,db,01
+"iLastProcessedUpdaterPolicy"=dword:67c8feda
+"iLastProcessedPdfExtension"=dword:67c8feda
+"tTimeWaitedFilesInUse_{291AA914-A987-4CE9-BD63-0C0A92D435E5}"="3842179441thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB010000009B4A3AAE9FC19E40B6AD02AF39EAEC06000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E000000106600000001000020000000F2986B6352F952CE99E114EE6FCB8A7AF215C9003643EE608918CB28565447AA000000000E800000000200002000000008710F264DF8BD6ED27E79FC1DADEC9D8D398917E784204644949B1F5827DED31000000045C13A987164C3FD999369BDBE7A846E400000006F3DC1E35932A845947D748F0DC3B9709365E8FDBC734C7D22F9F29D44FA2FA0F72FD53F848B02D7FAF14154512E12BDDF468C72F5FC1AC89CEA5F54932F9844"
+"iInstallTime_{291AA914-A987-4CE9-BD63-0C0A92D435E5}"=dword:67a44364
+"tLastT_{291AA914-A987-4CE9-BD63-0C0A92D435E5}"="3842179441thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB010000009B4A3AAE9FC19E40B6AD02AF39EAEC06000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E00000010660000000100002000000058D2E80CD26674059B16AA66BCFCFCCF6ADEB807768241DE77AD9041005000A0000000000E8000000002000020000000539CC4CC31E4FBBEC7305BB04B0652CA4839D88F09553078515993E28272D94E2000000029DFFA8BFB16DCC325470A0793FE14639FE8EE5206BB9132F2547A537D0A6EA340000000864737B8FD59977E49622D5AB22D5BC8162C0CE3AB0DC5EDBBC39AA122DC609173CD7DF249256510D3220AD8D52EC20443BED41DAEE8C14C337EBFA8977B9C0F"
+"iLastProcessedMAU"=dword:67a9514e
+"iLastProcessedArmFolderSize"=dword:6796e444
+"tTimeWaitedFilesInUse_Acrobat"="3842179441thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB010000009B4A3AAE9FC19E40B6AD02AF39EAEC06000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E00000010660000000100002000000037C5CA39A1303FF4A6F0C0FAD5ACF300E3B8198448E73AF124213373E26C8B0D000000000E80000000020000200000001DF5C2B155BC09E2E31285B38597BC16C51A5207AC2D83202AC4745661B65F2710000000D03C0019C960602269084B34C892460040000000F269A06E57F12497CC98D7FCEB66C85E7DE6FD44690FCF6909BBDA64C88C9499801CFDEB2A96FCF5C8A1B42D5966D5096866EA8B102839089BECED98C7637E10"
+"tLastT_Acrobat"="3842179441thsnY01000000D08C9DDF0115D1118C7A00C04FC297EB010000009B4A3AAE9FC19E40B6AD02AF39EAEC06000000002800000045006E0063007200790070007400650064002000620079002000410064006F00620065002E00000010660000000100002000000045AE9D9544AF56184507A51E886C330FAECE39D703CAA7B6E97A6F32FAA5B46E000000000E80000000020000200000004DF774FE04D7A2FDC543E11EFEB22C497D0C1ADC7BE34896F3CDFC6169DCEBE72000000030ADA92D7C879EBE0DB5EDF3C841E18125D150BD79B6E594AEA0370ED9032BDE40000000AD31A9FEEB88E2A8638122897164B2C661BE9DD86F765E9F161D7D71762A4B1D0AD6860D9B99224AA2687F9BA2CED686E01DAB0F5C43611D60A4506FBF89C257"
+"iInstallTime_Acrobat"=dword:67c90013
+"iIntervalProcessMAU"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0\ARM\Products]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0\ARM\Products\Acrobat]
+"tProcessedReason"="noupdates"
+"iProcessedTime"=dword:679ae551
+"tProcessedVersion"="24.005.20320"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\ACPMigrationAcrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\Acrobat.com]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\Acrobat.com.v2]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\AxonNotifInfra]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\CrashReporter]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\CredentialsV4]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\DBRecoveryOptions]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\SophiaDTNotifications]
+"tMguid"="a2bf8891-f0da-461f-924d-f6b5b9e3511f"
+"bisDTNotificationsExpEnabled"=dword:00000000
+"tcountryCode"="PH"
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\DC\WebServers]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\CRLog]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Exchange-Pro DC]
+"optin"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\UsageCC]
+
+[HKEY_CURRENT_USER\Software\Adobe\CSXSPreferences]
+"LogLevel"="1"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dunamis]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dunamis\device]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dunamis\users]
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="FB5E79242140CC491ED3BEEC6585AAAA"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-11T04:04:05.1669Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Villiabeto_BSIT1B_Contact_User Interface.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-11T05:00:18.5570Z]
+@="E:\\USB Drive\\Tacastacas.psb"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T01:59:27.4681Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Junry_Pacot_BSIT_1B_User Interface_Product.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:06:26.3592Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Villiabeto_BSIT1B_Product_User Interface.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:07:01.6633Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Villiabeto_BSIT1B_User Interface.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:07:48.3674Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Villiabeto_BSIT1B_CONTACT.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:09:21.5436Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Villiabeto_BSIT1B_PRODUCT.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:14:51.5617Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\user interface angelica.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:16:23.2588Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\senoc_loginpage.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:25:16.46510Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Junry_Pacot_BSIT_1B_User Interface_User Experiance.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:45:37.99612Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\senoc_Contact.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:49:45.30213Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\User Interface.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T02:58:46.6115Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\senoc_Product.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T03:23:49.98218Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Jenny_Contact.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T03:43:15.80419Z]
+@="C:\\Users\\name\\Desktop\\Tacastacas.psb"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T04:27:33.200Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Jenny_Loginpage.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T04:52:27.5042Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Jenny_Product.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T05:09:36.8593Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Criscel_loginpage.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T05:10:13.7724Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Criscel_Product.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T05:10:48.2015Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Criscel_Contact.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T05:31:34.1667Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\Villiabeto_BSIT1B_LOGINPAGE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T05:52:37.9288Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\KISSIE_LOGINPAGE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T05:53:16.3099Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\KISSIE_PRODUCT.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T05:53:48.18310Z]
+@="C:\\Users\\name\\Desktop\\UI_UX DESIGN JUNRY\\KISSIE_CONTACT.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-12T06:14:00.16911Z]
+@="C:\\Users\\name\\Desktop\\junryVGD\\Kissie_Capablanca_BSIT_1B_Logo.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-16T06:25:02.1901Z]
+@="C:\\Users\\name\\Pictures\\ProblemSet5.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-27T13:05:43.2100Z]
+@="C:\\Users\\name\\Pictures\\Offline-Ride-Hailing-Mobile-App-for-Transport.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-27T13:10:23.3800Z]
+@="C:\\Users\\name\\Pictures\\Offline-Ride-Hailing-Mobile-App-for-Transport_.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-04-27T13:15:43.3971Z]
+@="C:\\Users\\name\\Pictures\\Offline-Ride-Hailing-Mobile-App-for-Transport_.tif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-07T22:04:27.3000Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\SANCHEZ_REYMAR_BSIT_1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-07T22:20:33.7802Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\Sanchezz.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-07T22:39:17.814Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\SANCHEZ_REYMAR_BSIT1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T06:04:56.3652Z]
+@="C:\\Users\\name\\Pictures\\EVELYNBUR.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T11:28:48.7450Z]
+@="C:\\Users\\name\\Downloads\\EVELYN VILLABITO BSIT- 1BPRODUCKPACKAGING.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T12:40:54.6233Z]
+@="C:\\Users\\name\\Downloads\\EVELYN VILLABITO BSIT- 1B LOGO.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T13:28:41.4694Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\PACOT_JUNRY_BSIT_1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T14:13:03.5756Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\VILLABITO_EVELYN_BSIT_1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T14:15:18.5617Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\Burger-Box-Template-Design-Graphics-79983782-3-580x348.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T18:28:53.381Z]
+@="C:\\Users\\name\\Desktop\\junryVGD\\Criscel_Tacastacas_BSIT_1B_Logo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T18:40:56.4653Z]
+@="C:\\Users\\name\\Pictures\\EVESBUR.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T18:59:10.424Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\TACASTACAS_CRISCEL_BSIT_1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T19:05:33.2176Z]
+@="C:\\Users\\name\\Desktop\\junryVGD\\Jenny_Dalaguit_BSIT_1B_Logo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T19:22:54.508Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\DALAGUIT_JENNY_BSIT_1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T19:34:07.84410Z]
+@="C:\\Users\\name\\Desktop\\junryVGD\\Angelica_Senoc_BSIT_1B_Logo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T19:48:48.45012Z]
+@="C:\\Users\\name\\Pictures\\NUTRITIONS.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T20:04:22.77413Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\SENOC_ANGELICA_BSIT_1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T20:09:50.69514Z]
+@="C:\\Users\\name\\Downloads\\Burger-Box-Template-Design-Graphics-79983782-3-580x348.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T20:11:41.22115Z]
+@="C:\\Users\\name\\Desktop\\junryVGD\\Kissie_Capablanca_BSIT_1B_Logo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T20:21:18.45316Z]
+@="C:\\Users\\name\\Pictures\\BEEFBARCODE.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-08T20:24:53.6217Z]
+@="C:\\Users\\name\\Desktop\\ProductPakaging\\KISSIE_CAPABLANCA_BSIT_1B_FOOD_PACKAGING.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-17T18:02:04.1020Z]
+@="C:\\Users\\name\\Desktop\\junryVGD\\Junry_Pacot_BSIT_1B_Logo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-18T05:21:36.3930Z]
+@="C:\\Users\\name\\Desktop\\junryVGD\\Junry_Pacot_BSIT_1B_Poster.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-18T09:40:24.6330Z]
+@="C:\\Users\\name\\Pictures\\Curriculumvitaejunry.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-18T09:42:49.1581Z]
+@="C:\\Users\\name\\Downloads\\SAMPLE CV.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-18T09:52:19.3642Z]
+@="C:\\Users\\name\\Pictures\\junry.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-19T03:48:50.3400Z]
+@="E:\\USB Drive\\EXAMPLELOGO-Recovered.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-19T12:57:55.2700Z]
+@="E:\\USB Drive\\PACOT_JUNRY_BSIT_1B_FINALEXAM\\Pacot_Junry_Poster.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-20T13:16:09.9240Z]
+@="C:\\Users\\name\\Pictures\\user3.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T09:20:06.7701Z]
+@="C:\\Users\\name\\Downloads\\ELTAGUNDE_LEE_BSIT_1B_CurriculumVitae.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T11:10:31.8392Z]
+@="C:\\Users\\name\\Downloads\\contacticon.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T11:12:13.3373Z]
+@="C:\\Users\\name\\Pictures\\contact.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T11:17:17.2964Z]
+@="C:\\Users\\name\\Pictures\\location.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T14:05:16.7220Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\ASSCAT.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T14:06:18.1581Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\CCIS.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T14:48:34.8942Z]
+@="C:\\Users\\name\\Pictures\\clasic burger.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T20:19:48.2220Z]
+@="C:\\Users\\name\\Desktop\\Pacot_Junry_LOGO.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T20:21:15.9401Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\PACOT_JUNRY_BSIT_1B_CURRICULUMVITAE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T20:34:06.5652Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\Jennypictures.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T22:00:40.9840Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\DALAGUIT_JENNY_CURRICULUM-VITAE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T22:41:25.5422Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\CRISCELPICTURES.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T22:54:53.8723Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\TACASTACAS_CRISCEL_CURRICULUM-VITAE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T23:03:53.7404Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\kissiepicture.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T23:24:29.6026Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\Pacot_Junry_COVERPAGE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T23:38:58.8397Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\DALAGUIT_JENNY_COVERPAGE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T23:55:03.4828Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\CRISCELPAGE.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-22T23:58:12.9469Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\TACASTACAS_CRISCEL_COVERPAGE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-23T00:21:33.28013Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\EVELYN_BILLABITO.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-23T00:32:29.31315Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\EVELYNPICTURES.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-23T00:40:27.48016Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\EVELYN_BILLABITO_CURRICULUM-VITAE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T04:25:44.3030Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\CAPABLANCA_KISSIE_CURRICULUM-VITAE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T06:28:03.3871Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\sanchess.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T06:38:55.1232Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\Sanchez_Reymar_Curriculum-Vitae.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T06:41:13.4493Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\EVELYN_BILLABITO.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T06:42:15.6214Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\KISSEI_CAPABLANCA_COVERPAGE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T06:45:25.7605Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\Reymar_Sanchez.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T16:12:24.6570Z]
+@="C:\\Users\\name\\Desktop\\BG welcoo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T16:20:51.9881Z]
+@="C:\\Users\\name\\Desktop\\Final_Project\\BurgerLogo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T16:26:16.8314Z]
+@="C:\\Users\\name\\Desktop\\Final_Project\\BG_LOGO.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T16:41:44.5176Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\bg1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T16:57:54.617Z]
+@="C:\\Users\\name\\Desktop\\3DBOOTH\\bg1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T17:11:32.6930Z]
+@="C:\\Users\\name\\Pictures\\beef burger.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T17:22:43.3821Z]
+@="C:\\Users\\name\\Pictures\\chicken burger.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T17:45:55.4743Z]
+@="C:\\Users\\name\\Desktop\\Final_Project\\chickenburger1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T18:33:33.830Z]
+@="C:\\Users\\name\\Desktop\\Final_Project\\BACONBURGER.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T22:45:55.4120Z]
+@="C:\\Users\\name\\Desktop\\Final_Project\\BG_LOG.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-24T22:46:38.4231Z]
+@="C:\\Users\\name\\Desktop\\Final_Project\\bg_burger.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-27T08:23:32.2710Z]
+@="C:\\Users\\name\\Desktop\\FINAL_CRISCEL\\papayasilkasoap.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-27T08:32:35.3983Z]
+@="C:\\Users\\name\\Desktop\\FINAL_CRISCEL\\WhiteningLotion.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-05-30T05:30:32.3030Z]
+@="C:\\Users\\name\\Pictures\\Camera Roll\\WIN_20250529_21_24_33_Pro.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2025-06-11T12:55:44.2591Z]
+@="C:\\Users\\name\\Pictures\\IMG_20230919_134102_306.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\11.0]
+"uiLanguageKey CS4"="en_US"
+"oldPaletteFontTypeKey CS4"=dword:00000001
+"AppWindowPosition"="[57,30,1728,927]"
+"SettingsFilePath"="C:\\Users\\NITO\\AppData\\Roaming\\Adobe\\Adobe Photoshop CS4\\Adobe Photoshop CS4 Settings\\"
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\11.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="D:\\ASSCAT\\PIC\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000001
+"AppWindowPosition"="[57,30,1728,927]"
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\name\\Pictures\\"
